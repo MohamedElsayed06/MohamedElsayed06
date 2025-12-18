@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @MohamedElsayed06
-- 👀 I’m interested in ... Learning computer science and math
-- 🌱 I’m currently learning ... coding in general, starting with python then going to start learning web development
+- 👋 Hi, I’m Mohamed Elsayed
+- 👀 I’m interested in Computer Architecture and low-level computing, used to and can dabble occasionally on some coding projects using Python
+- 🌱 I’m currently enrolled in an Electrical Engineering program in Eindhoven, the Netherlands.
+- Im intrested in FPGAs and hardware description languages (mainly Verilog)  
 - 📫 How to reach me ... mohamedelsaye112@gmail.com
 
 <!---
